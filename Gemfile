@@ -8,5 +8,5 @@ platforms :rbx do
 end
 
 gem 'country_select', '~> 2.5.2'
-gem 'railties'
+gem 'railties', '>= 5.2.4.3'
 gem 'rake'
